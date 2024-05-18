@@ -85,11 +85,6 @@ body {
 
 /* Logical stuff for things to work */
 
-.grid{
-   height: 31.25px;
-   width: 31.25px;
-}
-
 .makeDivBlack {
     background-color: black;
 }
@@ -101,4 +96,8 @@ body {
     width: 500px;
     background-color: white;
     overflow: hidden;
+}
+
+.makeDivRainbow{
+  background-color: red;
 }
